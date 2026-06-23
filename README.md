@@ -6,7 +6,9 @@ Companion to a planned SwiftUI iPhone app — see `docs/ios-dev-plan.md`.
 
 ## Status
 
-Phases -1, 0, 1 of the dev plan are complete. The Swift implementation of Loop's scoring formula (`α = 0.5^(√f / 13)`) runs against real backup data. Full SwiftUI app is blocked on a macOS upgrade required by current Xcode.
+Phases -1, 0, 1 of the dev plan are complete. The Swift implementation of Loop's scoring formula (`α = 0.5^(√f / 13)`) runs against real backup data.
+
+**Ongoing iOS-app development now lives in [`../habit-tracker-ios`](../habit-tracker-ios/)**. As of 2026-06-23 the SwiftUI app skeleton and Loop `.db` importer are working there end-to-end. See that repo's `docs/dev-plan.md` and `CHANGELOG.md`.
 
 ## Usage
 
